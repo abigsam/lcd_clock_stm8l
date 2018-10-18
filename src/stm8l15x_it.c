@@ -28,7 +28,8 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm8l15x_it.h"
-#include "clock_lcd.h"
+#include "lcd.h"
+#include "rtc.h"
 #include "delay.h"
 #include "stm8l_adc.h"
 

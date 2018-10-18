@@ -6292,10 +6292,13 @@
     <group>
         <name>app_lib</name>
         <file>
-            <name>$PROJ_DIR$\..\src\clock_lcd.c</name>
+            <name>$PROJ_DIR$\..\src\delay.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\src\delay.c</name>
+            <name>$PROJ_DIR$\..\src\lcd.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\rtc.c</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\src\stm8l_adc.c</name>

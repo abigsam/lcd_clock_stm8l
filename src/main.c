@@ -28,7 +28,8 @@
 /* Includes ------------------------------------------------------------------*/
 #include "stm8l15x.h"
 #include "delay.h"
-#include "clock_lcd.h"
+#include "lcd.h"
+#include "rtc.h"
 #include "utils.h"
 
 /** @addtogroup STM8L15x_StdPeriph_Template

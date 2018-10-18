@@ -3,7 +3,7 @@
 
 
 
-#include "clock_lcd.h"
+#include "lcd.h"
 #include "utils.h"
 #include "lcd_7segment_decode.h"
 
